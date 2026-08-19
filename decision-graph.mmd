@@ -1,0 +1,38 @@
+```mermaid
+flowchart TD
+    n0["STRATEGIC NEED"]
+    n1["PARTNER UNIVERSE"]
+    n2["TARGET"]
+    n3["FIT"]
+    n4["STAKEHOLDERS"]
+    n5["MUTUAL VALUE"]
+    n6["ALIGNMENT"]
+    n7["STRUCTURE"]
+    n8["NEGOTIATION"]
+    n9["EXECUTION"]
+    n10["PERFORMANCE"]
+    n11["EXPANSION  /  RESTRUCTURE  /  EXIT"]
+    n0 --> n1
+    n1 --> n2
+    n2 --> n3
+    n3 --> n4
+    n4 --> n5
+    n5 --> n6
+    n6 --> n7
+    n7 --> n8
+    n8 --> n9
+    n9 --> n10
+    n10 --> n11
+    n0 -->|learning| n0
+
+stateDiagram-v2
+    [*] --> IDENTIFIED
+    IDENTIFIED --> QUALIFIED
+    QUALIFIED --> NEGOTIATING
+    NEGOTIATING --> LAUNCHED
+    LAUNCHED --> PERFORMING
+    PERFORMING --> EXPANDING
+    EXPANDING --> RESTRUCTURING
+    RESTRUCTURING --> EXITED
+    EXITED --> [*]
+```

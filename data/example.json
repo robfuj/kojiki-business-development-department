@@ -1,0 +1,45 @@
+{
+  "decision_object": {
+    "decision_id": "BD-2026-014",
+    "decision_name": "Co-sell partnership with complementary platform",
+    "owning_function": "Business Development",
+    "decision_owner_role": "BD Director",
+    "trigger_condition": "Intro made; mutual interest; no scope agreed",
+    "current_state": "Interested, no pilot scope",
+    "required_inputs": [
+      "partner capability map",
+      "overlap with our ICP",
+      "co-sell program status"
+    ],
+    "evidence_threshold": ">= 2 qualified intros/month",
+    "available_options": [
+      "90-day pilot",
+      "Immediate full integration",
+      "Pass"
+    ],
+    "decision_criteria": "Non-competitive + repeatable referral motion",
+    "constraints": "No exclusivity; shared pipeline",
+    "risk_level": "low",
+    "delegation_level": "Own",
+    "escalation_conditions": "Partner has competing offering",
+    "expected_outcome": ">= 2 intros/mo OR kill",
+    "verification_method": "1-page pilot SOW, 90 days",
+    "actual_outcome": "3 intros, 1 closed in month 1",
+    "learning_extracted": "Partners without a co-sell program need us to do enablement",
+    "rule_version": "BD-RULE-002",
+    "last_reviewed": "2026-08-18"
+  },
+  "learning_ledger": {
+    "case": "Co-sell opportunity with complementary platform",
+    "decision": "Validate via pilot",
+    "assumption": "Referral motion is repeatable",
+    "action": "Co-write 1-page pilot SOW",
+    "expected_result": ">= 2 intros/mo",
+    "actual_result": "3 intros, 1 closed",
+    "variance": "Beat threshold",
+    "cause": "Strong ICP overlap",
+    "learning": "Require written pilot SOW before committing BD resource",
+    "rule_update": "Require written pilot SOW before committing BD resource"
+  },
+  "orientation_required": true
+}

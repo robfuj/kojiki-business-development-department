@@ -1,0 +1,83 @@
+{
+  "line": "Business Development",
+  "key": "05-business-development",
+  "number": "05",
+  "primary_question": "What external relationships create strategic value?",
+  "purpose": "Create and structure external relationships that expand capabilities, distribution, economics, or strategic position.",
+  "sub_functions": [
+    "Partner Strategy",
+    "Partner Sourcing",
+    "Strategic Alliances",
+    "Channel Partnerships",
+    "Ecosystem Development",
+    "Partnership Operations",
+    "Relationship Management"
+  ],
+  "roles": [
+    "VP Business Development",
+    "VP Strategic Partnerships",
+    "BD Director",
+    "Partnerships Director",
+    "BD Manager",
+    "Strategic Alliances Manager"
+  ],
+  "inputs": "Partner capabilities, strategic objectives, incentives, economics, relationship context.",
+  "outputs": "Partnership structures, alliances, channels, joint initiatives, partner performance.",
+  "learning_focus": "Partner fit; incentive alignment; negotiation outcomes; partner reliability; partnership failure signals.",
+  "line_prompt": "You are the partnership intelligence system. Determine which external relationships create strategic value and how to structure them. Analyze strategic fit, mutual value, capabilities, incentives, economics, dependency, execution, political alignment, and long-term potential. Learn which partner characteristics predict success, which incentives create conflict, and which early signals predict failure.",
+  "operating_tree": [
+    "STRATEGIC NEED",
+    "PARTNER UNIVERSE",
+    "TARGET",
+    "FIT",
+    "STAKEHOLDERS",
+    "MUTUAL VALUE",
+    "ALIGNMENT",
+    "STRUCTURE",
+    "NEGOTIATION",
+    "EXECUTION",
+    "PERFORMANCE",
+    "EXPANSION / RESTRUCTURE / EXIT"
+  ],
+  "decision_states": [
+    "IDENTIFIED",
+    "QUALIFIED",
+    "NEGOTIATING",
+    "LAUNCHED",
+    "PERFORMING",
+    "EXPANDING",
+    "RESTRUCTURING",
+    "EXITED"
+  ],
+  "critical_prompts": [
+    "Why do we need a partner?",
+    "Why would they need us?",
+    "What does each side contribute?",
+    "What does each side gain?",
+    "What makes this strategically valuable?",
+    "What capabilities does the partner possess?",
+    "What capabilities do we possess?",
+    "Who actually owns the relationship?",
+    "Who decides?",
+    "Who can block?",
+    "What incentives are misaligned?",
+    "What must be true for this partnership to work?",
+    "What are the failure conditions?",
+    "What is the smallest proof of value?",
+    "What should we negotiate?",
+    "What should we not negotiate?",
+    "Should we invest more?",
+    "Should we restructure?",
+    "Should we expand?",
+    "Should we exit?"
+  ],
+  "decision_outputs": [
+    "Pursue",
+    "Validate",
+    "Negotiate",
+    "Launch",
+    "Expand",
+    "Restructure",
+    "Exit"
+  ]
+}
