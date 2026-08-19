@@ -1,0 +1,92 @@
+{
+  "department": "05-business-development",
+  "orientation_required": true,
+  "research_then_install": true,
+  "sub_function_count": 7,
+  "bots": [
+    {
+      "slug": "partner-strategy",
+      "sub_function": "Partner Strategy",
+      "titles": [
+        "VP Business Development",
+        "VP Strategic Partnerships",
+        "BD Director",
+        "Partnerships Director",
+        "BD Manager",
+        "Strategic Alliances Manager"
+      ]
+    },
+    {
+      "slug": "partner-sourcing",
+      "sub_function": "Partner Sourcing",
+      "titles": [
+        "VP Business Development",
+        "VP Strategic Partnerships",
+        "BD Director",
+        "Partnerships Director",
+        "BD Manager",
+        "Strategic Alliances Manager"
+      ]
+    },
+    {
+      "slug": "strategic-alliances",
+      "sub_function": "Strategic Alliances",
+      "titles": [
+        "VP Business Development",
+        "VP Strategic Partnerships",
+        "BD Director",
+        "Partnerships Director",
+        "BD Manager",
+        "Strategic Alliances Manager"
+      ]
+    },
+    {
+      "slug": "channel-partnerships",
+      "sub_function": "Channel Partnerships",
+      "titles": [
+        "VP Business Development",
+        "VP Strategic Partnerships",
+        "BD Director",
+        "Partnerships Director",
+        "BD Manager",
+        "Strategic Alliances Manager"
+      ]
+    },
+    {
+      "slug": "ecosystem-development",
+      "sub_function": "Ecosystem Development",
+      "titles": [
+        "VP Business Development",
+        "VP Strategic Partnerships",
+        "BD Director",
+        "Partnerships Director",
+        "BD Manager",
+        "Strategic Alliances Manager"
+      ]
+    },
+    {
+      "slug": "partnership-operations",
+      "sub_function": "Partnership Operations",
+      "titles": [
+        "VP Business Development",
+        "VP Strategic Partnerships",
+        "BD Director",
+        "Partnerships Director",
+        "BD Manager",
+        "Strategic Alliances Manager"
+      ]
+    },
+    {
+      "slug": "relationship-management",
+      "sub_function": "Relationship Management",
+      "titles": [
+        "VP Business Development",
+        "VP Strategic Partnerships",
+        "BD Director",
+        "Partnerships Director",
+        "BD Manager",
+        "Strategic Alliances Manager"
+      ]
+    }
+  ]
+}
